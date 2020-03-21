@@ -2,8 +2,8 @@
 
 A new Flutter project.
 
-![Main Home](pic/pic1.png?raw=true "main")
-![Details](pic/pic2.png?raw=true "detail")
+<img src="pic/pic1.png" width="400">
+<img src="pic/pic2.png" width="400">
 
 
 
