@@ -7,10 +7,10 @@ class Robots extends StatefulWidget {
 }
 
 class _RobotsState extends State<Robots> {
-  /** Robots Api */
+  /// Robots Api
   String robotUrl = 'https://robohash.org/';
 
-  /** Static data */
+  /// Static data 
   final List robots = [
     {
       'id': 1,
