@@ -7,6 +7,10 @@ class Robots extends StatefulWidget {
 }
 
 class _RobotsState extends State<Robots> {
+  /** Robots Api */
+  String robotUrl = 'https://robohash.org/';
+
+  /** Static data */
   final List robots = [
     {
       'id': 1,
@@ -69,7 +73,6 @@ class _RobotsState extends State<Robots> {
       'email': 'Rey.Padberg@karina.biz'
     }
   ];
-  String robotUrl = 'https://robohash.org/';
 
   @override
   Widget build(BuildContext context) {
