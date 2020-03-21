@@ -1,6 +1,11 @@
-# flapp
+# first-flutterl-app
 
 A new Flutter project.
+
+![Main Home](pic/pic1.png?raw=true "main")
+![Details](pic/pic2.png?raw=true "detail")
+
+
 
 ## Getting Started
 
